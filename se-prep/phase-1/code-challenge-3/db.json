@@ -1,3 +1,16 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "title": "Time Management",
+      "content": "This is a topic most of us tend to struggle with but hopefully by the end of it we shall be able to go about it",
+      "author": "Beverly Ndukwe"
+    },
+    {
+      "title": "How to curl your hair",
+      "content": "First step, wet the hair, secondly put it in a bun. Third of all style as desired",
+      "author": "Gabriella Montana",
+      "id": 2
+    }
+  ]
 }
